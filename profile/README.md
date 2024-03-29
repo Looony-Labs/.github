@@ -1,6 +1,6 @@
-# Looony-Labs
+# L00ny-Labs
 
-At **Looony**, we're dedicated to helping businesses maximise their growth through deep Data Analytics and the strategic deployment of Generative AI.
+At **L00ny**, we're dedicated to helping businesses maximise their growth through deep Data Analytics and the strategic deployment of Generative AI.
 
 Central to our ethos is our team—a blend of skilled Data Engineers, Data Scientists, and Cloud/Infrastructure Engineers, with decades of solid industry experience in using technology for significant business impact.
 
